@@ -2,7 +2,7 @@
 
 ## A powerful AI-powered web agent built with [Mastra](https://mastra.ai) that can search, scrape, and extract data from the open web with ease.
 
-
+<img width="656" height="203" alt="Screenshot 2025-10-16 at 10 33 20" src="https://github.com/user-attachments/assets/05bedc40-29be-4519-843d-c1f5012af9ad" />
 </div>
 
 ## Overview
